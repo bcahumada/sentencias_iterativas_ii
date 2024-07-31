@@ -1,5 +1,14 @@
-#import sys
+#  Actividad 1- Filtrado compacto
+# Contexto:
 
+# Una empresa provee de los balances del año anterior en un diccionario como se muestra a
+# continuación:
+
+#  Este código genera un informe resumido que expone los meses que superan un cierto
+# umbral. El programa debe retornar un diccionario con el mes y el valor
+# asociado siempre y cuando superen el umbral especificado.
+
+# Código:
 ventas = {
     "Enero": 15000,
     "Febrero": 22000,

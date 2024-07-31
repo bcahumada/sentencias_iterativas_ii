@@ -1,3 +1,17 @@
+# Actividad 2- Primeros auxilios
+# Contexto:
+
+# En cualquier momento puede haber una emergencia y hay que estar preparados ¿sabrías
+# cómo reaccionar en caso de que alguien necesite de primeros auxilios?
+# Es muy probable que mucha gente no conozca cuáles son los pasos a seguir en caso de emergencia. 
+
+# Por lo tanto, es importante conocer los primeros auxilios básicos para poder ayudar
+# Este script interactivo tiene como objetivo guiar a través de los pasos críticos para 
+# proporcionar primeros auxilios efectivos.
+
+
+
+# Código:
 while True:
     respuesta_estimulos = input("¿Responde a estímulos? (si/no): ").strip().lower()
     
@@ -10,7 +24,7 @@ while True:
     respira = input("¿Respira? (si/no): ").strip().lower()
     
     if respira == 'si':
-        print("Permitirle posición de suficiente ventilación.")
+        print("Permitirle posicisión de suficiente ventilación.")
         break
     
     print("Administrar 5 ventilaciones y llamar a la ambulancia.")
