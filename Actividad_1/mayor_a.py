@@ -1,4 +1,4 @@
-#  Actividad 1- Filtrado compacto
+# Actividad 1- Filtrado compacto
 # Contexto:
 
 # Una empresa provee de los balances del año anterior en un diccionario como se muestra a
